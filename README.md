@@ -1,4 +1,5 @@
-<video width="480" height="282" autoplay loop muted playsinline src="https://github.com/user-attachments/assets/937453f5-b3d9-4af0-b2cc-b7209dba1724"></video>
+<img width="734" height="274" alt="_" src="https://github.com/user-attachments/assets/9f78c483-0862-4772-809a-d4d5ed9eb868" />
+
 
 
 # Hey, I'm Shamil SJ 
