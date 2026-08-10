@@ -1,4 +1,4 @@
-<img width="480" height="282" alt="Spider-Man Marvel GIF by Spider-Man Across The Spider-Verse" src="https://github.com/user-attachments/assets/937453f5-b3d9-4af0-b2cc-b7209dba1724" />
+<video width="480" height="282" autoplay loop muted playsinline src="https://github.com/user-attachments/assets/937453f5-b3d9-4af0-b2cc-b7209dba1724"></video>
 
 
 # Hey, I'm Shamil SJ 
